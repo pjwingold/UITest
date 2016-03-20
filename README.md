@@ -2,7 +2,7 @@
 A simple app that show case some UI usages
 
 
-HorizontalScrollView
+HorizontalScrollView<br />
 ViewPager
 LinearLayout - use of layout_weight
 RelativeLayout
